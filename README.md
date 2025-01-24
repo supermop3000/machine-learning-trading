@@ -1,4 +1,4 @@
-# Machine Learning Trading Project - Q Learner
+# Machine Learning Trading Project - Q-Learning
 
 ## ManualStrategy.py
 This file creates a `ManualStrategy` object. The `testPolicy` method returns a trades DataFrame based on a manual trading strategy for a given stock symbol, start date, end date, and starting amount of money. 
